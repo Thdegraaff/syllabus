@@ -1,0 +1,1 @@
+regress testscr str, robust

@@ -1,0 +1,7 @@
+"0","#| label: stata_setup"
+"0","#| warning: FALSE"
+"0","#| message: FALSE"
+"0","#| echo: FALSE"
+"0","library(Statamarkdown)"
+"0","stataexe <- ""/Applications/Stata/StataSE.app/Contents/MacOS/StataSE"" # Mac OS"
+"0","knitr::opts_chunk$set(engine.path = list(stata = stataexe))"

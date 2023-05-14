@@ -1,0 +1,1512 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Stock",
+                    "given": "James H"
+                },
+                {
+                    "family": "Watson",
+                    "given": "Mark W"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "id": "stock2003introduction",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003
+                    ]
+                ]
+            },
+            "publisher": "Addison Wesley Boston",
+            "title": "Introduction to econometrics",
+            "type": "book",
+            "volume": "104"
+        },
+        {
+            "URL": "http://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "edition": "2nd",
+            "id": "xie2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1498716963",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Dynamic documents with R and knitr",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Senn",
+                    "given": "Stephen"
+                }
+            ],
+            "container-title": "Significance",
+            "id": "senn2011francis",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "page": "124-126",
+            "publisher": "Wiley Online Library",
+            "title": "Francis galton and regression to the mean",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "author": [
+                {
+                    "family": "Amrhein",
+                    "given": "Valentin"
+                },
+                {
+                    "family": "Greenland",
+                    "given": "Sander"
+                },
+                {
+                    "family": "McShane",
+                    "given": "Blake"
+                }
+            ],
+            "id": "amrhein2019scientists",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "publisher": "Nature Publishing Group",
+            "title": "Scientists rise up against statistical significance",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Galton",
+                    "given": "Francis"
+                }
+            ],
+            "container-title": "The Journal of the Anthropological Institute of Great Britain and Ireland",
+            "id": "galton1886regression",
+            "issued": {
+                "date-parts": [
+                    [
+                        1886
+                    ]
+                ]
+            },
+            "page": "246-263",
+            "publisher": "JSTOR",
+            "title": "Regression towards mediocrity in hereditary stature.",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "author": [
+                {
+                    "family": "Reurink",
+                    "given": "Arjan"
+                }
+            ],
+            "container-title": "Journal of Economic Surveys",
+            "id": "reurink2018financial",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "1292-1325",
+            "publisher": "Wiley Online Library",
+            "title": "Financial fraud: A literature review",
+            "title-short": "Financial fraud",
+            "type": "article-journal",
+            "volume": "32"
+        },
+        {
+            "author": [
+                {
+                    "family": "Medema",
+                    "given": "Steven G"
+                }
+            ],
+            "container-title": "History of Political Economy",
+            "id": "medema2007hesitant",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "page": "331-358",
+            "publisher": "Duke University Press",
+            "title": "The hesitant hand: Mill, sidgwick, and the evolution of the theory of market failure",
+            "title-short": "The hesitant hand",
+            "type": "article-journal",
+            "volume": "39"
+        },
+        {
+            "author": [
+                {
+                    "family": "Pearl",
+                    "given": "Judea"
+                }
+            ],
+            "id": "pearl2009causality",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "publisher": "Cambridge university press",
+            "title": "Causality",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Levitt",
+                    "given": "Steven D"
+                },
+                {
+                    "family": "Porter",
+                    "given": "Jack"
+                }
+            ],
+            "container-title": "Journal of political Economy",
+            "id": "levitt2001dangerous",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "page": "1198-1237",
+            "publisher": "The University of Chicago Press",
+            "title": "How dangerous are drinking drivers?",
+            "type": "article-journal",
+            "volume": "109"
+        },
+        {
+            "author": [
+                {
+                    "family": "McElreath",
+                    "given": "Richard"
+                }
+            ],
+            "id": "mcelreath2020statistical",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "publisher": "Chapman; Hall/CRC",
+            "title": "Statistical rethinking: A bayesian course with examples in r and stan",
+            "title-short": "Statistical rethinking",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Verhoef",
+                    "given": "Erik"
+                },
+                {
+                    "family": "Nijkamp",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Rietveld",
+                    "given": "Piet"
+                }
+            ],
+            "container-title": "Journal of Urban Economics",
+            "id": "verhoef1996second",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996
+                    ]
+                ]
+            },
+            "page": "279-302",
+            "publisher": "Elsevier",
+            "title": "Second-best congestion pricing: The case of an untolled alternative",
+            "title-short": "Second-best congestion pricing",
+            "type": "article-journal",
+            "volume": "40"
+        },
+        {
+            "author": [
+                {
+                    "family": "Busse",
+                    "given": "Meghan R"
+                },
+                {
+                    "family": "Pope",
+                    "given": "Devin G"
+                },
+                {
+                    "family": "Pope",
+                    "given": "Jaren C"
+                },
+                {
+                    "family": "Silva-Risso",
+                    "given": "Jorge"
+                }
+            ],
+            "container-title": "The Quarterly Journal of Economics",
+            "id": "busse2015psychological",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "371-414",
+            "publisher": "MIT Press",
+            "title": "The psychological effect of weather on car purchases",
+            "type": "article-journal",
+            "volume": "130"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bernheim",
+                    "given": "B Douglas"
+                },
+                {
+                    "family": "Taubinsky",
+                    "given": "Dmitry"
+                }
+            ],
+            "container-title": "Handbook of behavioral economics: Applications and Foundations 1",
+            "id": "bernheim2018behavioral",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "381-516",
+            "publisher": "Elsevier",
+            "title": "Behavioral public economics",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "author": [
+                {
+                    "family": "Simon",
+                    "given": "Herbert A"
+                }
+            ],
+            "id": "simon1957models",
+            "issued": {
+                "date-parts": [
+                    [
+                        1957
+                    ]
+                ]
+            },
+            "publisher": "wiley",
+            "title": "Models of man; social and rational.",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Friedman",
+                    "given": "Milton"
+                }
+            ],
+            "id": "friedman1953methodology",
+            "issued": {
+                "date-parts": [
+                    [
+                        1953
+                    ]
+                ]
+            },
+            "publisher": "Chicago",
+            "title": "The methodology of positive economics",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Stock",
+                    "given": "James H"
+                },
+                {
+                    "family": "Watson",
+                    "given": "Mark W"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "id": "stock2003introduction",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003
+                    ]
+                ]
+            },
+            "publisher": "Addison Wesley Boston",
+            "title": "Introduction to econometrics",
+            "type": "book",
+            "volume": "104"
+        },
+        {
+            "author": [
+                {
+                    "family": "Van Drunen",
+                    "given": "Michiel"
+                },
+                {
+                    "family": "Van Beukering",
+                    "given": "Pieter"
+                },
+                {
+                    "family": "Aiking",
+                    "given": "Harry"
+                }
+            ],
+            "container-title": "Meat the truth, essays on livestock production, sustainability and climate change",
+            "id": "van2010true",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "page": "87-104",
+            "publisher": "Nicolaas G. Pierson Foundation",
+            "title": "The true price of meat",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Popper",
+                    "given": "Karl"
+                }
+            ],
+            "id": "popper2005logic",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "publisher": "Routledge",
+            "title": "The logic of scientific discovery",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Visschers",
+                    "given": "Vivianne HM"
+                },
+                {
+                    "family": "Wickli",
+                    "given": "Nadine"
+                },
+                {
+                    "family": "Siegrist",
+                    "given": "Michael"
+                }
+            ],
+            "container-title": "Journal of Environmental Psychology",
+            "id": "visschers2016sorting",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "66-78",
+            "publisher": "Elsevier",
+            "title": "Sorting out food waste behaviour: A survey on the motivators and barriers of self-reported amounts of food waste in households",
+            "title-short": "Sorting out food waste behaviour",
+            "type": "article-journal",
+            "volume": "45"
+        },
+        {
+            "author": [
+                {
+                    "family": "Leonard",
+                    "given": "Thomas C"
+                }
+            ],
+            "id": "leonard2008richard",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "publisher": "Springer",
+            "title": "Richard h. Thaler, cass r. Sunstein, nudge: Improving decisions about health, wealth, and happiness",
+            "title-short": "Richard h. Thaler, cass r. Sunstein, nudge",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Cadario",
+                    "given": "Romain"
+                },
+                {
+                    "family": "Chandon",
+                    "given": "Pierre"
+                }
+            ],
+            "container-title": "Marketing Science",
+            "id": "cadario2020healthy",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "465-486",
+            "publisher": "INFORMS",
+            "title": "Which healthy eating nudges work best? A meta-analysis of field experiments",
+            "type": "article-journal",
+            "volume": "39"
+        },
+        {
+            "author": [
+                {
+                    "family": "Jachimowicz",
+                    "given": "Jon M"
+                },
+                {
+                    "family": "Duncan",
+                    "given": "Shannon"
+                },
+                {
+                    "family": "Weber",
+                    "given": "Elke U"
+                },
+                {
+                    "family": "Johnson",
+                    "given": "Eric J"
+                }
+            ],
+            "container-title": "Behavioural Public Policy",
+            "id": "jachimowicz2019and",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "159-186",
+            "publisher": "Cambridge University Press",
+            "title": "When and why defaults influence decisions: A meta-analysis of default effects",
+            "title-short": "When and why defaults influence decisions",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "author": [
+                {
+                    "family": "Infante",
+                    "given": "Gerardo"
+                },
+                {
+                    "family": "Lecouteux",
+                    "given": "Guilhem"
+                },
+                {
+                    "family": "Sugden",
+                    "given": "Robert"
+                }
+            ],
+            "container-title": "Journal of Economic Methodology",
+            "id": "infante2016preference",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "1-25",
+            "publisher": "Taylor & Francis",
+            "title": "Preference purification and the inner rational agent: A critique of the conventional wisdom of behavioural welfare economics",
+            "title-short": "Preference purification and the inner rational agent",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "author": [
+                {
+                    "family": "Chetty",
+                    "given": "Raj"
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "chetty2015behavioral",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "1-33",
+            "title": "Behavioral economics and public policy: A pragmatic perspective",
+            "title-short": "Behavioral economics and public policy",
+            "type": "article-journal",
+            "volume": "105"
+        },
+        {
+            "author": [
+                {
+                    "family": "Posner",
+                    "given": "Eric A"
+                },
+                {
+                    "family": "Sunstein",
+                    "given": "Cass R"
+                }
+            ],
+            "container-title": "Va. L. Rev.",
+            "id": "posner2017moral",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "1809",
+            "publisher": "HeinOnline",
+            "title": "Moral commitments in cost-benefit analysis",
+            "type": "article-journal",
+            "volume": "103"
+        },
+        {
+            "author": [
+                {
+                    "family": "Wempe",
+                    "given": "Ben"
+                },
+                {
+                    "family": "Frooman",
+                    "given": "Jeff"
+                }
+            ],
+            "container-title": "Journal of Business Ethics",
+            "id": "wempe2018reframing",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "1-15",
+            "publisher": "Springer",
+            "title": "Reframing the moral limits of markets debate: Social domains, values, allocation methods",
+            "title-short": "Reframing the moral limits of markets debate",
+            "type": "article-journal",
+            "volume": "153"
+        },
+        {
+            "author": [
+                {
+                    "family": "High",
+                    "given": "Jack"
+                }
+            ],
+            "container-title": "Reason Papers",
+            "id": "high1985economics",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1985
+                    ]
+                ]
+            },
+            "page": "3-16",
+            "title": "Is economics independent of ethics",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bénabou",
+                    "given": "Roland"
+                },
+                {
+                    "family": "Tirole",
+                    "given": "Jean"
+                }
+            ],
+            "container-title": "The Quarterly Journal of Economics",
+            "id": "benabou2011identity",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "page": "805-855",
+            "publisher": "MIT Press",
+            "title": "Identity, morals, and taboos: Beliefs as assets",
+            "title-short": "Identity, morals, and taboos",
+            "type": "article-journal",
+            "volume": "126"
+        },
+        {
+            "author": [
+                {
+                    "family": "Chorus",
+                    "given": "Caspar G"
+                }
+            ],
+            "container-title": "Journal of choice modelling",
+            "id": "chorus2015models",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "69-85",
+            "publisher": "Elsevier",
+            "title": "Models of moral decision making: Literature review and research agenda for discrete choice analysis",
+            "title-short": "Models of moral decision making",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "author": [
+                {
+                    "family": "Chorus",
+                    "given": "Caspar G"
+                },
+                {
+                    "family": "Pudāne",
+                    "given": "Baiba"
+                },
+                {
+                    "family": "Mouter",
+                    "given": "Niek"
+                },
+                {
+                    "family": "Campbell",
+                    "given": "Danny"
+                }
+            ],
+            "container-title": "Journal of choice modelling",
+            "id": "chorus2018taboo",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "37-49",
+            "publisher": "Elsevier",
+            "title": "Taboo trade-off aversion: A discrete choice model and empirical analysis",
+            "title-short": "Taboo trade-off aversion",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "author": [
+                {
+                    "family": "Spash",
+                    "given": "Clive L"
+                }
+            ],
+            "container-title": "Journal of Environmental Management",
+            "id": "spash1997ethics",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997
+                    ]
+                ]
+            },
+            "page": "403-416",
+            "publisher": "Elsevier",
+            "title": "Ethics and environmental attitudes with implications for economic valuation",
+            "type": "article-journal",
+            "volume": "50"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hirschman",
+                    "given": "Albert O"
+                }
+            ],
+            "id": "hirschman1970exit",
+            "issued": {
+                "date-parts": [
+                    [
+                        1970
+                    ]
+                ]
+            },
+            "publisher": "Harvard university press",
+            "title": "Exit, voice, and loyalty: Responses to decline in firms, organizations, and states",
+            "title-short": "Exit, voice, and loyalty",
+            "type": "book",
+            "volume": "25"
+        },
+        {
+            "author": [
+                {
+                    "family": "Klamer",
+                    "given": "Arjo"
+                }
+            ],
+            "id": "klamer2017doing",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "publisher": "Ubiquity Press",
+            "title": "Doing the right thing: A value based economy",
+            "title-short": "Doing the right thing",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Acemoglu",
+                    "given": "D"
+                },
+                {
+                    "family": "Laibson",
+                    "given": "D"
+                },
+                {
+                    "family": "List",
+                    "given": "JA"
+                }
+            ],
+            "id": "acemoglu2015macroeconomics",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "publisher": "Pearson Education",
+            "title": "Macroeconomics, 1-st edition",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Lazear",
+                    "given": "Edward P"
+                }
+            ],
+            "container-title": "the Quarterly Journal of economics",
+            "id": "lazear2000economic",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "page": "99-146",
+            "publisher": "MIT Press",
+            "title": "Economic imperialism",
+            "type": "article-journal",
+            "volume": "115"
+        },
+        {
+            "author": [
+                {
+                    "family": "Roth",
+                    "given": "Alvin E"
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "roth2018marketplaces",
+            "issue": "7",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "1609-58",
+            "title": "Marketplaces, markets, and market design",
+            "type": "article-journal",
+            "volume": "108"
+        },
+        {
+            "author": [
+                {
+                    "family": "Sen",
+                    "given": "Amartya"
+                }
+            ],
+            "container-title": "The Journal of Legal Studies",
+            "id": "sen2000discipline",
+            "issue": "S2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "page": "931-952",
+            "publisher": "The University of Chicago Press",
+            "title": "The discipline of cost-benefit analysis",
+            "type": "article-journal",
+            "volume": "29"
+        },
+        {
+            "author": [
+                {
+                    "family": "Mouter",
+                    "given": "Niek"
+                },
+                {
+                    "family": "Koster",
+                    "given": "Paul"
+                },
+                {
+                    "family": "Dekker",
+                    "given": "Thijs"
+                }
+            ],
+            "container-title": "Transportation research part A: policy and practice",
+            "id": "mouter2021contrasting",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "54-73",
+            "publisher": "Elsevier",
+            "title": "Contrasting the recommendations of participatory value evaluation and cost-benefit analysis in the context of urban mobility investments",
+            "type": "article-journal",
+            "volume": "144"
+        },
+        {
+            "author": [
+                {
+                    "family": "Allcott",
+                    "given": "Hunt"
+                },
+                {
+                    "family": "Lockwood",
+                    "given": "Benjamin B"
+                },
+                {
+                    "family": "Taubinsky",
+                    "given": "Dmitry"
+                }
+            ],
+            "container-title": "The Quarterly Journal of Economics",
+            "id": "allcott2019regressive",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "1557-1626",
+            "publisher": "Oxford University Press",
+            "title": "Regressive sin taxes, with an application to the optimal soda tax",
+            "type": "article-journal",
+            "volume": "134"
+        },
+        {
+            "author": [
+                {
+                    "family": "Atkinson",
+                    "given": "Anthony B"
+                }
+            ],
+            "container-title": "Economica",
+            "id": "atkinson2009economics",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "page": "791-804",
+            "publisher": "Wiley Online Library",
+            "title": "Economics as a moral science",
+            "type": "article-journal",
+            "volume": "76"
+        },
+        {
+            "author": [
+                {
+                    "family": "Sandel",
+                    "given": "Michael J"
+                }
+            ],
+            "container-title": "Journal of economic Perspectives",
+            "id": "sandel2013market",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "121-40",
+            "title": "Market reasoning as moral reasoning: Why economists should re-engage with political philosophy",
+            "title-short": "Market reasoning as moral reasoning",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "author": [
+                {
+                    "family": "Van Staveren",
+                    "given": "Irene"
+                }
+            ],
+            "container-title": "Review of Political Economy",
+            "id": "van2007beyond",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "page": "21-35",
+            "publisher": "Taylor & Francis",
+            "title": "Beyond utilitarianism and deontology: Ethics in economics",
+            "title-short": "Beyond utilitarianism and deontology",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "author": [
+                {
+                    "family": "White",
+                    "given": "Mark D"
+                }
+            ],
+            "container-title": "Review of Political Economy",
+            "id": "white2009defense",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "page": "299-307",
+            "publisher": "Taylor & Francis",
+            "title": "In defense of deontology and kant: A reply to van staveren",
+            "title-short": "In defense of deontology and kant",
+            "type": "article-journal",
+            "volume": "21"
+        },
+        {
+            "author": [
+                {
+                    "family": "Laibson",
+                    "given": "David"
+                },
+                {
+                    "family": "List",
+                    "given": "John A"
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "laibson2015principles",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "385-90",
+            "title": "Principles of (behavioral) economics",
+            "type": "article-journal",
+            "volume": "105"
+        },
+        {
+            "author": [
+                {
+                    "family": "Tversky",
+                    "given": "Amos"
+                },
+                {
+                    "family": "Kahneman",
+                    "given": "Daniel"
+                }
+            ],
+            "container-title": "Journal of Risk and uncertainty",
+            "id": "tversky1992advances",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "page": "297-323",
+            "publisher": "Springer",
+            "title": "Advances in prospect theory: Cumulative representation of uncertainty",
+            "title-short": "Advances in prospect theory",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kahneman",
+                    "given": "Daniel"
+                }
+            ],
+            "id": "kahneman2011thinking",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "publisher": "Macmillan",
+            "title": "Thinking, fast and slow",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Stanovich",
+                    "given": "Keith E"
+                },
+                {
+                    "family": "West",
+                    "given": "Richard F"
+                }
+            ],
+            "container-title": "Behavioral and brain sciences",
+            "id": "stanovich2000individual",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "page": "645-665",
+            "publisher": "Cambridge University Press",
+            "title": "Individual differences in reasoning: Implications for the rationality debate?",
+            "title-short": "Individual differences in reasoning",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "author": [
+                {
+                    "family": "Layard",
+                    "given": "Richard"
+                },
+                {
+                    "family": "Mayraz",
+                    "given": "Guy"
+                },
+                {
+                    "family": "Nickell",
+                    "given": "Stephen"
+                }
+            ],
+            "container-title": "Journal of Public Economics",
+            "id": "layard2008marginal",
+            "issue": "8-9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "page": "1846-1857",
+            "publisher": "Elsevier",
+            "title": "The marginal utility of income",
+            "type": "article-journal",
+            "volume": "92"
+        },
+        {
+            "author": [
+                {
+                    "family": "Varian",
+                    "given": "Hal R"
+                }
+            ],
+            "id": "varian2003intermediate",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003
+                    ]
+                ]
+            },
+            "publisher": "Elsevier Brasil",
+            "title": "Intermediate microeconomics: A modern approach",
+            "title-short": "Intermediate microeconomics",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Brons",
+                    "given": "Martijn"
+                },
+                {
+                    "family": "Pels",
+                    "given": "Eric"
+                },
+                {
+                    "family": "Nijkamp",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Rietveld",
+                    "given": "Piet"
+                }
+            ],
+            "container-title": "Journal of Air Transport Management",
+            "id": "brons2002price",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "page": "165-175",
+            "publisher": "Elsevier",
+            "title": "Price elasticities of demand for passenger air travel: A meta-analysis",
+            "title-short": "Price elasticities of demand for passenger air travel",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "author": [
+                {
+                    "family": "Andreyeva",
+                    "given": "Tatiana"
+                },
+                {
+                    "family": "Long",
+                    "given": "Michael W"
+                },
+                {
+                    "family": "Brownell",
+                    "given": "Kelly D"
+                }
+            ],
+            "container-title": "American journal of public health",
+            "id": "andreyeva2010impact",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "page": "216-222",
+            "publisher": "American Public Health Association",
+            "title": "The impact of food prices on consumption: A systematic review of research on the price elasticity of demand for food",
+            "title-short": "The impact of food prices on consumption",
+            "type": "article-journal",
+            "volume": "100"
+        },
+        {
+            "author": [
+                {
+                    "family": "Pillai",
+                    "given": "Unni"
+                }
+            ],
+            "container-title": "Energy economics",
+            "id": "pillai2015drivers",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "286-293",
+            "publisher": "Elsevier",
+            "title": "Drivers of cost reduction in solar photovoltaics",
+            "type": "article-journal",
+            "volume": "50"
+        },
+        {
+            "author": [
+                {
+                    "family": "Epple",
+                    "given": "Dennis"
+                },
+                {
+                    "family": "Gordon",
+                    "given": "Brett"
+                },
+                {
+                    "family": "Sieg",
+                    "given": "Holger"
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "epple2010new",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "page": "905-24",
+            "title": "A new approach to estimating the production function for housing",
+            "type": "article-journal",
+            "volume": "100"
+        },
+        {
+            "author": [
+                {
+                    "family": "Singh",
+                    "given": "Prabhpal"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "container-title": "Trames",
+            "id": "singh2020moral",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "441-457",
+            "publisher": "Teaduste Akadeemia Kirjastus",
+            "title": "Moral realism and expert disagreement",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "author": [
+                {
+                    "family": "Combes",
+                    "given": "Pierre-Philippe"
+                },
+                {
+                    "family": "Duranton",
+                    "given": "Gilles"
+                },
+                {
+                    "family": "Gobillon",
+                    "given": "Laurent"
+                }
+            ],
+            "container-title": "Journal of Political Economy",
+            "id": "combes2021production",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "2766-2816",
+            "publisher": "The University of Chicago Press Chicago, IL",
+            "title": "The production function for housing: Evidence from france",
+            "title-short": "The production function for housing",
+            "type": "article-journal",
+            "volume": "129"
+        },
+        {
+            "author": [
+                {
+                    "family": "Green",
+                    "given": "Richard K"
+                },
+                {
+                    "family": "Malpezzi",
+                    "given": "Stephen"
+                },
+                {
+                    "family": "Mayo",
+                    "given": "Stephen K"
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "green2005metropolitan",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "page": "334-339",
+            "title": "Metropolitan-specific estimates of the price elasticity of supply of housing, and their sources",
+            "type": "article-journal",
+            "volume": "95"
+        },
+        {
+            "author": [
+                {
+                    "family": "Godfray",
+                    "given": "H Charles J"
+                },
+                {
+                    "family": "Aveyard",
+                    "given": "Paul"
+                },
+                {
+                    "family": "Garnett",
+                    "given": "Tara"
+                },
+                {
+                    "family": "Hall",
+                    "given": "Jim W"
+                },
+                {
+                    "family": "Key",
+                    "given": "Timothy J"
+                },
+                {
+                    "family": "Lorimer",
+                    "given": "Jamie"
+                },
+                {
+                    "family": "Pierrehumbert",
+                    "given": "Ray T"
+                },
+                {
+                    "family": "Scarborough",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Springmann",
+                    "given": "Marco"
+                },
+                {
+                    "family": "Jebb",
+                    "given": "Susan A"
+                }
+            ],
+            "container-title": "Science",
+            "id": "godfray2018meat",
+            "issue": "6399",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "eaam5324",
+            "publisher": "American Association for the Advancement of Science",
+            "title": "Meat consumption, health, and the environment",
+            "type": "article-journal",
+            "volume": "361"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}
