@@ -1,40 +1,26 @@
 {
+  "linear_regression.qmd": {
+    "linear_regression.html": "4dee2127"
+  },
   "index.qmd": {
-    "index.html": "ab1fc757",
-    "index.tex": "6e1c0803"
+    "index.html": "f6bf6fec"
   },
   "intro.qmd": {
-    "intro.html": "81486ad3",
-    "intro.tex": "c2b3ce8f"
-  },
-  "summary.qmd": {
-    "summary.html": "0e0c33a7"
-  },
-  "references.qmd": {
-    "references.html": "5e31e477",
-    "references.tex": "1508ce07"
-  },
-  "conclusion.qmd": {
-    "conclusion.html": "ba6e9cba",
-    "conclusion.tex": "33bba16c"
-  },
-  "appendix.qmd": {
-    "appendix.html": "ca2cf36e",
-    "appendix.tex": "c6fc8718"
-  },
-  "linear_regression.qmd": {
-    "linear_regression.html": "4362cc2c",
-    "linear_regression.tex": "4147b5a8"
+    "intro.html": "39c4617e"
   },
   "multivariate.qmd": {
-    "multivariate.html": "1f75212c",
-    "multivariate.tex": "27a8b160"
+    "multivariate.html": "585bc1ef"
   },
   "assessment.qmd": {
-    "assessment.html": "668832a2",
-    "assessment.tex": "84083544"
+    "assessment.html": "ab272c1a"
   },
-  "Untitled.qmd": {
-    "Untitled.tex": "1dfbad0b"
+  "conclusion.qmd": {
+    "conclusion.html": "1bc26d50"
+  },
+  "references.qmd": {
+    "references.html": "4d600af1"
+  },
+  "appendix.qmd": {
+    "appendix.html": "ccd49f33"
   }
 }
