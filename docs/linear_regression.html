@@ -142,9 +142,6 @@ div.csl-indent {
     "search-submit-button-title": "Submit"
   }
 }</script>
-
-<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
-<link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet">
 <script>
 window.MathJax = {
   tex: {
@@ -299,10 +296,10 @@ window.MathJax = {
 
 <section id="introduction" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">2.1</span> Introduction</h2>
-<p>Why should we have something as applied econometrics in the social sciences? That is because we have theories and those theories contain variables such as in the direct utility function of model (<span class="math inline">\(\ref{directutility}\)</span>):</p>
+<p>Why should we have something as applied econometrics in the social sciences? That is because we have theories and those theories contain variables such as in the direct utility function of model (<span class="math inline">\(\ref{eq:directutility}\)</span>):</p>
 <p><span class="math display">\[\begin{equation}
 U(x_1, x2) = x_1^\alpha \cdot x_2^\beta
-\label{directutility}
+\label{eq:directutility}
 \end{equation}\]</span></p>
 <p>Here, the quantities for the goods <span class="math inline">\(x_1\)</span> and <span class="math inline">\(x_2\)</span> are considered to be <strong>known</strong>—also often referred to as data. In theoretical work they are fictional or sometimes simulated. The parameters <span class="math inline">\(\alpha\)</span> and <span class="math inline">\(\beta\)</span> are <strong>not known</strong> and we often want to <strong>estimate</strong> them. If we know what the parameters <span class="math inline">\(\alpha\)</span> and <span class="math inline">\(\beta\)</span> should be, then we can calculate what utility a certain amount of consumption of both goods gives and then, for example, assess which combination of goods gives maximum utility.</p>
 <p>This course is about using data to quantify (socio-economic) parameters. Moreover, we focus on measuring <strong>causal</strong> effects, instead of mere correlations. Note, that in an ideal world, we would like conducting experiments as to measure a causal relation of a phenomenon <span class="math inline">\(X\)</span> on <span class="math inline">\(Y\)</span>. However, we almost always only have observational data on, for example, demand and prices.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> Therefore, this course and syllabus deals with (<em>i</em>) difficulties arising from using observational data to estimate these causal effects and (<em>ii</em>) rewriting models as (<span class="math inline">\(\ref{directutility}\)</span>) such that we can actually <em>use</em> data to tease out values for—in this case—<span class="math inline">\(\alpha\)</span> and <span class="math inline">\(\beta\)</span>.</p>
@@ -445,32 +442,31 @@ Sorted by: </code></pre>
 <div class="cell">
 <div class="cell-output-display">
 <div id="tbl-smalllarge" class="anchored">
-
-<table class="table table-striped" style="margin-left: auto; margin-right: auto;"><caption>Table&nbsp;2.1:  Descriptive statistics of small and large classes </caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Class size </th>
-   <th style="text-align:left;"> Average score </th>
-   <th style="text-align:left;"> Standard deviation </th>
-   <th style="text-align:left;"> Observations </th>
-  </tr>
- </thead>
+<table class="table table-sm table-striped">
+<caption>Table&nbsp;2.1: Descriptive statistics of small and large classes</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Class size</th>
+<th style="text-align: left;">Average score</th>
+<th style="text-align: left;">Standard deviation</th>
+<th style="text-align: left;">Observations</th>
+</tr>
+</thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Small </td>
-   <td style="text-align:left;"> 657.4 </td>
-   <td style="text-align:left;"> 19.4 </td>
-   <td style="text-align:left;"> 238 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Large </td>
-   <td style="text-align:left;"> 650.0 </td>
-   <td style="text-align:left;"> 17.9 </td>
-   <td style="text-align:left;"> 182 </td>
-  </tr>
+<tr class="odd">
+<td style="text-align: left;">Small</td>
+<td style="text-align: left;">657.4</td>
+<td style="text-align: left;">19.4</td>
+<td style="text-align: left;">238</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Large</td>
+<td style="text-align: left;">650.0</td>
+<td style="text-align: left;">17.9</td>
+<td style="text-align: left;">182</td>
+</tr>
 </tbody>
 </table>
-
 </div>
 </div>
 </div>

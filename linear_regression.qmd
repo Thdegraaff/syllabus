@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Why should we have something as applied econometrics in the social sciences? That is because we have theories and those theories contain variables such as in the direct utility function of model (\ref{directutility}):
+Why should we have something as applied econometrics in the social sciences? That is because we have theories and those theories contain variables such as in the direct utility function of model (\ref{eq:directutility}):
 
 \begin{equation}
 U(x_1, x2) = x_1^\alpha \cdot x_2^\beta
-\label{directutility}
+\label{eq:directutility}
 \end{equation}
 
 Here, the quantities for the goods $x_1$ and $x_2$ are considered to be **known**---also often referred to as data. In theoretical work they are fictional or sometimes simulated. The parameters $\alpha$ and $\beta$ are **not known** and we often want to **estimate** them. If we know what the parameters $\alpha$ and $\beta$ should be, then we can calculate what utility a certain amount of consumption of both goods gives and then, for example, assess which combination of goods gives maximum utility.  
@@ -137,12 +137,12 @@ v2 <- c(657.4, 650.0)
 v3 <- c(19.4, 17.9)
 v4 <- c(238, 182)
 df <- data.frame( v1, v2, v3, v4 )
-kable(df,
-      align="l",
-      booktabs=TRUE, escape = F,
-      col.names = c("Class size", "Average score", "Standard deviation", "Observations")
-) %>%
-  kable_styling(bootstrap_options = "striped")
+kbl(df,
+    format = "markdown",
+     align="l",
+     booktabs=TRUE, escape = F,
+     col.names = c("Class size", "Average score", "Standard deviation", "Observations")
+) 
 ```
 
 Now, for all three strategies (estimation, testing, confidence intervals) we want to know something about the difference---usually denoted as $\Delta$. Or, specifically:
