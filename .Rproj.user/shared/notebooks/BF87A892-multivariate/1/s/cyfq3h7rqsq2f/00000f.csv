@@ -3,5 +3,7 @@
 "0","#| message: FALSE"
 "0","#| echo: FALSE"
 "0","library(Statamarkdown)"
+"0","library(tidyverse)"
+"0","library(kableExtra)"
 "0","stataexe <- ""/Applications/Stata/StataSE.app/Contents/MacOS/StataSE"" # Mac OS"
 "0","knitr::opts_chunk$set(engine.path = list(stata = stataexe))"
