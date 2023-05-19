@@ -111,6 +111,7 @@ But if we now include include percent English Learners in the district ($PctEL$)
 Clearly, the effect of student teacher ratio becomes smaller (that is, less negative). That indicates that the original regression suffers from omitted variable bias. And this is what should happen as reasoned above. The `STATA` syntax for a multivariate regression model is now rather straightforward. You basically add another to the regression equation, as below (do not forget the command `, robust`):
 
 ```{stata, collectcode=TRUE}
+set linesize 96
 reg testscr str el_pct, robust
 ```
 
@@ -693,7 +694,7 @@ use "./data/fatality.dta", clear
 gen fatality = allmort/pop * 10000
 ```
 and then run a simple regression:
-```{stata, collectcode=TRUE}
+```{stata official, cleanlog=FALSE, echo=FALSE, collectcode=TRUE}
 regress fatality beertax, robust
 ```
 But these outcomes are very strange. For every dollar increase in tax, number of fatal accidents per 10,000 people increases with 0.36, which is statistically significantly different from 0. What is going on here. Most likely this effect is biased because of omitted variable bias. States in the US differ widely in terms of population density, environment, institutions, religion, poverty, and so on and so forth. And those state characteristics might influence both the variables beertax and fatality. 
@@ -704,6 +705,7 @@ Fortunately, for each state we have yearly data. In fact for each state we have 
 \end{equation}
 where $S_i$ denote indicator (dummies) for each state which constitute the fixed effects. In total there are 48 states in this dataset, so we have 48 dummies. Note that these fixed effects only depend on variation over states, not over years. So, essentially what these fixed effects capture is all state **specific** characteristics which are **constant** over time. And most of the characteristics' examples given above do not vary that much over time, so by using these state fixed effects we can **control** for them. In `STATA` you can estimate this in a straightforward way as `regress fatality beertax i.state, robust`, but this creates lots of statistical output that you are usually not interested in. Almost just as easy would be is to invoke the `areg` command, where you specifically state that the state variable should be used as dummies but not shown using `absorb(state)`: and then run a simple regression:
 ```{stata}
+#| max-width: 1400px
 areg fatality beertax, absorb(state) robust
 ```
 Now, see what happens with the coefficient of the beer tax variable. It changes sign! So from positive it becomes negative. That is how **disruptive** omitted variable bias can be. Also see that by including all these state fixed effects, the $\bar{\text{R}^2}$ now increase enormously to 91%, which does make sense because the states explain the variation in fatality rate to a large extent (e.g., compare Kansas with Connecticut).
