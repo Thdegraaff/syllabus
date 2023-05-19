@@ -9,7 +9,7 @@ U(x_1, x2) = x_1^\alpha \cdot x_2^\beta
 \label{eq:directutility}
 \end{equation}
 
-Here, the quantities for the goods $x_1$ and $x_2$ are considered to be **known**---also often referred to as data. In theoretical work they are fictional or sometimes simulated. The parameters $\alpha$ and $\beta$ are **not known** and we often want to **estimate** them. If we know what the parameters $\alpha$ and $\beta$ should be, then we can calculate what utility a certain amount of consumption of both goods gives and then, for example, assess which combination of goods gives maximum utility.  
+Here, the quantities of the goods $x_1$ and $x_2$ are considered to be **known**---also often referred to as **data**. In theoretical work they are fictional or sometimes simulated. The parameters $\alpha$ and $\beta$ are **not known** and we often want to **estimate** them. If we know what the parameters $\alpha$ and $\beta$ should be, then we can calculate what utility a certain amount of consumption of both goods gives and then, for example, assess which combination of goods gives maximum utility.  
 
 This course is about using data to quantify (socio-economic) parameters. Moreover, we focus on measuring **causal** effects, instead of mere correlations. Note, that in an ideal world, we would like conducting experiments as to measure a causal relation of a phenomenon $X$ on $Y$. However, we almost always only have observational data on, for example, demand and prices.^[Moreover, very often experiments are not feasible or highly unethical.] Therefore, this course and syllabus deals with (*i*) difficulties arising from using observational data to estimate these causal effects and (*ii*) rewriting models as (\ref{eq:directutility}) such that we can actually *use* data to tease out values for---in this case---$\alpha$ and $\beta$.
 
@@ -63,10 +63,17 @@ Note here that this file path is used on an Apple or Linux system. On a Windows 
 To import the data in STATA you make use of the `use` command (again, you can make use of the dropdown menus), as follows:
 
 ```{stata}
+#| warning: FALSE
+#| message: FALSE
+#| echo: FALSE
+#| collectcode: TRUE
+set linesize 96
+```
+
+```{stata}
 #| label: readdata
 #| collectcode: TRUE
 #| results: hide
-set linesize 96
 use "./data/caschool.dta", clear
 ```
 
