@@ -436,7 +436,7 @@ regress testscr large, robust
 
 Now, note that this is the same output ($\Delta= -7.4$, $\sigma_\Delta = 1.82$ and $t$-statistic is $-4.04$) as when we did the difference in means test in @sec-smart. To conclude, this is just another way (and much easier) to do a difference-in-means analysis. And this directly carries over for the situation when we have additional regressors.
 
-## Least squares assumptions for causal inference
+## Least squares assumptions for causal inference {#sec-lsa}
 
 As stated at the start of @sec-problem applied econometrics focuses on finding a **causal** effect. But how do you do know that the $\hat{\beta}_1$ you estimate using the population regression model of Eq. \ref{eq:betacausal} is indeed a causal effect. In other words, if you change $X_i$ with one unit, will $Y_i$ then change with $\beta_1$ **in reality**?
 

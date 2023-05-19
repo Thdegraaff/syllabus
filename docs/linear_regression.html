@@ -265,7 +265,7 @@ window.MathJax = {
   <li><a href="#sec-dummy" id="toc-sec-dummy" class="nav-link" data-scroll-target="#sec-dummy"><span class="toc-section-number">2.3.2.4</span>  Regression with a dummy</a></li>
   </ul></li>
   </ul></li>
-  <li><a href="#least-squares-assumptions-for-causal-inference" id="toc-least-squares-assumptions-for-causal-inference" class="nav-link" data-scroll-target="#least-squares-assumptions-for-causal-inference"><span class="toc-section-number">2.4</span>  Least squares assumptions for causal inference</a>
+  <li><a href="#sec-lsa" id="toc-sec-lsa" class="nav-link" data-scroll-target="#sec-lsa"><span class="toc-section-number">2.4</span>  Least squares assumptions for causal inference</a>
   <ul>
   <li><a href="#least-squares-assumption-1-conditional-mean-independence" id="toc-least-squares-assumption-1-conditional-mean-independence" class="nav-link" data-scroll-target="#least-squares-assumption-1-conditional-mean-independence"><span class="toc-section-number">2.4.1</span>  Least squares assumption 1: conditional mean independence</a></li>
   <li><a href="#least-squares-assumption-2-independenty-and-identically-distributed" id="toc-least-squares-assumption-2-independenty-and-identically-distributed" class="nav-link" data-scroll-target="#least-squares-assumption-2-independenty-and-identically-distributed"><span class="toc-section-number">2.4.2</span>  Least squares assumption 2: independenty and identically distributed</a></li>
@@ -807,8 +807,8 @@ Y_i = \beta_0 + \beta_1 X_i + u_i
 </section>
 </section>
 </section>
-<section id="least-squares-assumptions-for-causal-inference" class="level2" data-number="2.4">
-<h2 data-number="2.4" class="anchored" data-anchor-id="least-squares-assumptions-for-causal-inference"><span class="header-section-number">2.4</span> Least squares assumptions for causal inference</h2>
+<section id="sec-lsa" class="level2" data-number="2.4">
+<h2 data-number="2.4" class="anchored" data-anchor-id="sec-lsa"><span class="header-section-number">2.4</span> Least squares assumptions for causal inference</h2>
 <p>As stated at the start of <a href="#sec-problem"><span>Section&nbsp;2.2</span></a> applied econometrics focuses on finding a <strong>causal</strong> effect. But how do you do know that the <span class="math inline">\(\hat{\beta}_1\)</span> you estimate using the population regression model of Eq. <span class="math inline">\(\ref{eq:betacausal}\)</span> is indeed a causal effect. In other words, if you change <span class="math inline">\(X_i\)</span> with one unit, will <span class="math inline">\(Y_i\)</span> then change with <span class="math inline">\(\beta_1\)</span> <strong>in reality</strong>?</p>
 <p><span class="math display">\[\begin{equation}
 Y_i = \beta_0 + \beta_1 X_i + u_i, \qquad i = 1 \dots n
